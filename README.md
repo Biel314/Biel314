@@ -1,4 +1,4 @@
-# 🤲E aí! Me chamo Gabriel Ordonho || Gsgs
+# 🤲Me chamo Gabriel Ordonho || Gsgs
 
 🎓Técnico em Desenvolvimento de Sistemas - ETEC de Guaianazes - 2023
 <br>
