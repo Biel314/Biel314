@@ -16,7 +16,7 @@ Além disto, também gosto de gatos e adoro um café com leite pela manhã☕.
 
 ## Ferramentas🔨
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Gsgs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gsgs-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Gsgs-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
