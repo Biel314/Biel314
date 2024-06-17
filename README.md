@@ -7,7 +7,7 @@ Além disto, também gosto de gatos e adoro um café com leite pela manhã☕.
 🎓Técnico em Desenvolvimento de Sistemas / ETEC de Guaianazes / 2021 - 2023
 <br>
 
-## Github Stats💫
+## GitHub Stats💫
 
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biel314&show_icons=true&theme=dracula">
