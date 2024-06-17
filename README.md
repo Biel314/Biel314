@@ -7,12 +7,14 @@ Além disto, também gosto de gatos e adoro um café com leite pela manhã☕.
 🎓Técnico em Desenvolvimento de Sistemas / ETEC de Guaianazes / 2021 - 2023
 <br>
 
-##
+## Github Status💫
 
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biel314&show_icons=true&theme=dracula">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biel314&show_icons=true&theme=dracula&layout=compact">
 </div>
+
+## Ferramentas🔨
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gsgs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
