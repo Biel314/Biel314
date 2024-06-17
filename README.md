@@ -1,4 +1,4 @@
-# 👋E aí, me chamo Gabriel Ordonho || Gsgs
+# 👋E aí, me chamo Gabriel Ordonho
 
 Sou um amante da tecnologia e estou sempre procurando evoluir na programação, uma área que tenho interesse e valorizo! <br>
 Além disso, também gosto de gatos🐈 e adoro um café pela manhã☕.
