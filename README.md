@@ -1,10 +1,10 @@
 # 👋E aí, me chamo Gabriel Ordonho || Gsgs
 
-Sou apaixonado pela tecnologia e estou 
+Sou um amante da tecnologia e estou sempre procurando evoluir na programação, uma área que tenho interesse e valorizo! <br>
+Além disto, também gosto de gatos e adoro um café com leite pela manhã☕.
 
-🎓Técnico em Desenvolvimento de Sistemas / ETEC de Guaianazes / 2021 - 2023
 <br>
-💻Curso de Implantação de Serviços de Inteligência Artificial em Nuvem - Microsoft AI900 - Escola SENAI Frederico Jacob - 2022
+🎓Técnico em Desenvolvimento de Sistemas / ETEC de Guaianazes / 2021 - 2023
 <br>
 
 ##
