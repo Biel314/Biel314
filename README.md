@@ -1,7 +1,7 @@
 # 👋E aí, me chamo Gabriel Ordonho || Gsgs
 
 Sou um amante da tecnologia e estou sempre procurando evoluir na programação, uma área que tenho interesse e valorizo! <br>
-Além disto, também gosto de gatos🐈 e adoro um café com leite pela manhã☕.
+Além disso, também gosto de gatos🐈 e adoro um café com leite pela manhã☕.
 
 <br>
 🎓Técnico em Desenvolvimento de Sistemas / ETEC de Guaianazes / 2021 - 2023
