@@ -1,6 +1,8 @@
-# 🤲Me chamo Gabriel Ordonho || Gsgs
+# 👋E aí, me chamo Gabriel Ordonho || Gsgs
 
-🎓Técnico em Desenvolvimento de Sistemas - ETEC de Guaianazes - 2021 - 2023
+Sou apaixonado pela tecnologia e estou 
+
+🎓Técnico em Desenvolvimento de Sistemas / ETEC de Guaianazes / 2021 - 2023
 <br>
 💻Curso de Implantação de Serviços de Inteligência Artificial em Nuvem - Microsoft AI900 - Escola SENAI Frederico Jacob - 2022
 <br>
