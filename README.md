@@ -6,7 +6,7 @@ Além disso, também gosto de gatos🐈 e adoro um café pela manhã☕.
 <br>
 🎓Técnico em Desenvolvimento de Sistemas - ETEC de Guaianazes - 2021/2023
 <br>
-Cursando Análise e Desenvolvimento de Sistemas - FATEC Zona Leste - 1/6
+💻Cursando Análise e Desenvolvimento de Sistemas - FATEC Zona Leste - 1/6
 
 ## GitHub Stats💫
 
