@@ -6,7 +6,7 @@ Além disso, também gosto de gatos🐈 e amo desafios!!
 <br>
 🎓Técnico em Desenvolvimento de Sistemas - ETEC de Guaianazes - 2021/2023
 <br>
-💻Cursando Análise e Desenvolvimento de Sistemas - FATEC Zona Leste - 2/6
+💻Cursando Análise e Desenvolvimento de Sistemas - FATEC Zona Leste - 3/6
 
 ## GitHub Stats💫
 
