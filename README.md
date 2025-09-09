@@ -11,8 +11,8 @@ Além disso, também gosto de gatos🐈 e amo desafios!!
 ## GitHub Stats💫
 
 <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biel314&show_icons=true&theme=dracula">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biel314&show_icons=true&theme=dracula&layout=compact">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biel314&show_icons=true&theme=midnight-purple">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biel314&show_icons=true&theme=midnight-purple&layout=compact">
 </div>
 
 ## Tools🔨
