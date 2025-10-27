@@ -1,7 +1,6 @@
 # 👋E aí, Me chamo Gabriel Ordonho!
 
 Sou um amante da tecnologia e estou sempre procurando evoluir na programação, uma área que tenho interesse e valorizo! <br>
-Além disso, também gosto de gatos🐈 e amo desafios!!
 
 O contéudo deste perfil é meu portfólio, então sinta-se a vontade!
 
